@@ -1,10 +1,11 @@
-***Coupon Acceptance Data Analysis :***
+**Coupon Acceptance Data Analysis :**
 
-**Summary:
-**
+Summary:
+
 This git repository includes the analysis of customers coupon acceptance analysis. This is  part of my ML & AI course work.  
 
 This source data ior this analysis s from the UCI Machine Learning Repository and was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios, including the destination, current time, weather, and passenger, and then asks people whether they will accept the coupon if they are the driver. There are three possible answers people can choose from:
+
 	•	“Right away”
 	•	“Later, before the coupon expires”
 	•	“No, I do not want the coupon”
